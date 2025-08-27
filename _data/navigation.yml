@@ -16,7 +16,7 @@ main:
     url: "/#-educations-and-experiences"
 
   - title: "Service"
-  url: "/#-service"
+    url: "/#-service"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
