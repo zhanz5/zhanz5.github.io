@@ -17,42 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.S. degree in software engineering and my M.S. degree from the College of Information and Computer, Taiyuan University of Technology, Taiyuan, China, in 2017 and 2020, respectively. I earned my Ph.D. in cyberspace security from the School of Cyber Science and Engineering, Wuhan University, China, in 2024. I am currently a Postdoctoral Fellow with the Department of Computer Science, City University of Hong Kong, Hong Kong, China. My main research interests include AI security and autonomous vehicle security. I have published 20+ papers<a href='https://scholar.google.com/citations?user=h5QBmQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in the top journals and conferences, such as IEEE TIFS, IEEE TMC, CVPR. 
+I received my B.S. degree in software engineering and my M.S. degree from the College of Information and Computer, Taiyuan University of Technology, Taiyuan, China, in 2017 and 2020, respectively. I earned my Ph.D. in cyberspace security from the School of Cyber Science and Engineering, Wuhan University, China, in 2024. I am currently a Postdoctoral Fellow with the Department of Computer Science, City University of Hong Kong, Hong Kong, China. My main research interests include AI security and autonomous vehicle security. I have published 20+ papers in the top journals and conferences, such as IEEE TIFS, IEEE TMC, CVPR, MM. 
 
 
 
-
+---
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp,🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp,🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+---
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <u>Zhuangzhuang Zhang</u>, Libing Wu*, Zhibo Wang, Jiahui Hu, Chao Ma and Qin Liu. Cost-Efficient and Secure Federated Learning for Edge Computing[J]. IEEE Transactions on Mobile Computing, 2025, early access. **TMC 2025**
+- <u>Zhuangzhuang Zhang</u>, Libing Wu, Jiong Jin, Enshu Wang, Bingyi Liu, and Qing-Long Han. Secure Federated Learning for Cloud-Fog Automation: Vulnerabilities, Challenges, Solutions, and Future Directions[J]. IEEE Transactions on Industrial Informatics, 2025, 21(5): 3528-3540. **TII 2025**
+- Xinhai Yan, Libing Wu*, <u>Zhuangzhuang Zhang</u>*, Bingyi Liu, Lijuan Huo, Jing Wang. FedBAP: Backdoor Defense via Benign Adversarial Perturbation in Federated Learning[C]. ACM MM 2025. **ACM MM 2025**
+- Jiaqi Feng, Libing Wu, Xing Fan, Lijuan Huo, Enshu Wang, <u>Zhuangzhuang Zhang</u>*. Ascina: Efficient Proof of Retrievability for Industrial Cloud Storage Systems[J]. IEEE Transactions on Information Forensics and Security, 2025. **TIFS 2025**
+- Yi Yu, Weizhen Han, Libing Wu, Bingyi Liu, Enshu Wang, <u>Zhuangzhuang Zhang</u>. Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework[C]//Proceedings of the Computer Vision and Pattern Recognition Conference. 2025. **CVPR 2025**
+- Yizhou Wang, Libing Wu, Yue Cao, Jiong Jin, <u>Zhuangzhuang Zhang</u>*, Enshu Wang. A Highly Transferable Camouflage Attack Against Object Detectors in the Physical World[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. **TITS 2025**
+- Yijun Pu, Libing Wu, Zhuangzhuang Zhang, Xianjun Deng, Bingyi Liu, Enshu Wang. APC: Adaptive Platoon Control Scheme for Urban Traffic Signal Intersections[J]. IEEE Transactions on Vehicular Technology, 2025. **TVT 2025**
+- <u>Zhuangzhuang Zhang</u>, Libing Wu*, Debiao He, Jianxin Li, Na Lu and Xuejiang Wei. Using Third-Party Auditor to Help Federated Learning: An Efficient Byzantine-robust Federated Learning[J]. IEEE Transactions on Sustainable Computing, 2024. **TSUSC 2024**
+- Lijuan Huo, Libing Wu*, <u>Zhuangzhuang Zhang</u>*, Chunshuo Li, Debiao He, and Jing Wang. Libras: a Fair, Secure, Verifiable and Scalable Outsourcing Computing Scheme Based on Blockchain[J]. IEEE Transactions on Information Forensics and Security. **TIFS 2024**
+- <u>Zhuangzhuang Zhang</u>, Libing Wu*, Chuanguo Ma, Jianxin Li, Jing Wang, Qian Wang and Shui Yu. LSFL: A Lightweight and Secure Federated Learning Scheme for Edge Computing[J]. IEEE Transactions on Information Forensics and Security, 2023. **TIFS 2023**
+- <u>Zhuangzhuang Zhang</u>, Libing Wu*, Debiao He, Qian Wang, Dan Wu, Xiaochuan Shi and Chao Ma. G-VCFL: Grouped Verifiable Chained Privacy-Preserving Federated Learning[J]. IEEE Transactions on Network and Service Management, 2022. **TNSM 2022**
+- <u>Zhuangzhuang Zhang</u>, Libing Wu*, Debiao He, Jianxin Li, Shuqin Cao and Xianfeng Wu. Communication-Efficient and Byzantine-robust Federated Learning for Mobile Edge Computing Networks[J]. IEEE Network, 2023. **IEEE Network 2023**
+- 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Best Paper Award, IEEE International Conference on Smart City
+- *2023* Outstanding Postgraduate Student, Wuhan University,
+- *2022* First Prize in CCF Excellent Ph.D. Academic Forum, CCF Wuhan Branch 
+ 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations and Experiences
+- *2024.08 - Now*, City University of Hong Kong, Postdoctoral Fellow
+- *2020.09 - 2024.06*, Wuhan University, Ph.D. 
+- *2017.09 - 2020.06*, Taiyuan University of Technology, M.S.
+- *2013.09 - 2017.06*, Taiyuan University of Technology, B.S.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Service
+- Reviewer: IEEE TIFS, IEEE JSAC, IEEE IoTJ, IEEE TNSM, etc.
