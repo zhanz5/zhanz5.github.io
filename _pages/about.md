@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.S. degree in software engineering and my M.S. degree from the College of Information and Computer, Taiyuan University of Technology, Taiyuan, China, in 2017 and 2020, respectively. I earned my Ph.D. in cyberspace security from the School of Cyber Science and Engineering, Wuhan University, China, in 2024. I am currently a Postdoctoral Fellow with the Department of Computer Science, City University of Hong Kong, Hong Kong, China. My main research interests include AI security and autonomous vehicle security. I have published 20+ papers in the top journals and conferences, such as IEEE TIFS, IEEE TMC, CVPR, MM. 
+I received my B.S. and M.S. degrees from Taiyuan University of Technology, Taiyuan, China, in 2017 and 2020, respectively, and my Ph.D. in Cyberspace Security from the School of Cyber Science and Engineering, Wuhan University, China, in 2024. I am currently a Postdoctoral Fellow with the Department of Computer Science, City University of Hong Kong, Hong Kong, China. My main research interests include AI security and autonomous vehicle security. I have published 20+ papers in the top journals and conferences, such as IEEE TIFS, IEEE TMC, CVPR, ACM MM. 
 
 
 
@@ -28,12 +28,12 @@ I received my B.S. degree in software engineering and my M.S. degree from the Co
 
 # 📝 Publications 
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Zhibo Wang, Jiahui Hu, Chao Ma and Qin Liu. Cost-Efficient and Secure Federated Learning for Edge Computing[J]. IEEE Transactions on Mobile Computing, 2025, early access. **TMC 2025**
-- <u>Zhuangzhuang Zhang</u>, Libing Wu, Jiong Jin, Enshu Wang, Bingyi Liu, and Qing-Long Han. Secure Federated Learning for Cloud-Fog Automation: Vulnerabilities, Challenges, Solutions, and Future Directions[J]. IEEE Transactions on Industrial Informatics, 2025, 21(5): 3528-3540. **TII 2025**
+- <u>Zhuangzhuang Zhang</u>, Libing Wu*, Jiong Jin, Enshu Wang, Bingyi Liu, and Qing-Long Han. Secure Federated Learning for Cloud-Fog Automation: Vulnerabilities, Challenges, Solutions, and Future Directions[J]. IEEE Transactions on Industrial Informatics, 2025, 21(5): 3528-3540. **TII 2025**
 - Xinhai Yan, Libing Wu*, <u>Zhuangzhuang Zhang</u>*, Bingyi Liu, Lijuan Huo, Jing Wang. FedBAP: Backdoor Defense via Benign Adversarial Perturbation in Federated Learning[C]. ACM MM 2025. **ACM MM 2025**
-- Jiaqi Feng, Libing Wu, Xing Fan, Lijuan Huo, Enshu Wang, <u>Zhuangzhuang Zhang</u>*. Ascina: Efficient Proof of Retrievability for Industrial Cloud Storage Systems[J]. IEEE Transactions on Information Forensics and Security, 2025. **TIFS 2025**
-- Yi Yu, Weizhen Han, Libing Wu, Bingyi Liu, Enshu Wang, <u>Zhuangzhuang Zhang</u>. Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework[C]//Proceedings of the Computer Vision and Pattern Recognition Conference. 2025. **CVPR 2025**
-- Yizhou Wang, Libing Wu, Yue Cao, Jiong Jin, <u>Zhuangzhuang Zhang</u>*, Enshu Wang. A Highly Transferable Camouflage Attack Against Object Detectors in the Physical World[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. **TITS 2025**
-- Yizhou Wang, Libing Wu, Jiong Jin, Enshu Wang, <u>Zhuangzhuang Zhang</u>, Yu Zhao. An imperceptible adversarial attack against 3d object detectors in autonomous driving[J]. IEEE Internet of Things Journal, 2025. **IoTJ 2025**
+- Jiaqi Feng, Libing Wu*, Xing Fan, Lijuan Huo, Enshu Wang, <u>Zhuangzhuang Zhang</u>*. Ascina: Efficient Proof of Retrievability for Industrial Cloud Storage Systems[J]. IEEE Transactions on Information Forensics and Security, 2025. **TIFS 2025**
+- Yi Yu, Weizhen Han, Libing Wu*, Bingyi Liu, Enshu Wang, <u>Zhuangzhuang Zhang</u>. Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework[C]//Proceedings of the Computer Vision and Pattern Recognition Conference. 2025. **CVPR 2025**
+- Yizhou Wang, Libing Wu*, Yue Cao, Jiong Jin, <u>Zhuangzhuang Zhang</u>*, Enshu Wang. A Highly Transferable Camouflage Attack Against Object Detectors in the Physical World[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. **TITS 2025**
+- Yizhou Wang, Libing Wu*, Jiong Jin, Enshu Wang, <u>Zhuangzhuang Zhang</u>, Yu Zhao. An imperceptible adversarial attack against 3d object detectors in autonomous driving[J]. IEEE Internet of Things Journal, 2025. **IoTJ 2025**
 - Yijun Pu, Libing Wu*, <u>Zhuangzhuang Zhang</u>*, Xianjun Deng, Bingyi Liu, Enshu Wang. APC: Adaptive Platoon Control Scheme for Urban Traffic Signal Intersections[J]. IEEE Transactions on Vehicular Technology, 2025. **TVT 2025**
 - Lijuan Huo, Libing Wu*, Enshu Wang, Jinfei Liu, Chunshuo Li, Zeimei Liu, <u>Zhuangzhuang Zhang</u>*. NTTproofs: A Maintainable and Aggregatable Vector Commitment With Fast Openings and Updates[J]. IEEE Transactions on Information Forensics and Security, 2025. **TIFS 2025**
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Debiao He, Jianxin Li, Na Lu and Xuejiang Wei. Using Third-Party Auditor to Help Federated Learning: An Efficient Byzantine-robust Federated Learning[J]. IEEE Transactions on Sustainable Computing, 2024. **TSUSC 2024**
@@ -57,4 +57,5 @@ I received my B.S. degree in software engineering and my M.S. degree from the Co
 - *2013.09 - 2017.06*, Taiyuan University of Technology, B.S.
 
 # 💻 Service
-- Reviewer: IEEE TIFS, IEEE JSAC, IEEE IoTJ, IEEE TNSM, etc.
+- Reviewer: IEEE TIFS, IEEE JSAC, IJCAI, IEEE IoTJ, IEEE TNSM, IEEE TNSE, etc.
+- Program Committee Member: WASA (2024, 2025), HPCC (2025).
