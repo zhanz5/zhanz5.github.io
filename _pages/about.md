@@ -23,7 +23,7 @@ I received my B.S. degree in software engineering and my M.S. degree from the Co
 
 
 # 🔥 News
-- *2025.07*: &nbsp,🎉🎉 Our paper was accepted by TMC 2025.
+- *2025.07*: 🎉🎉 Our paper was accepted by TMC 2025.
 
 
 # 📝 Publications 
