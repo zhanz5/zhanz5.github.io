@@ -21,11 +21,10 @@ I received my B.S. degree in software engineering and my M.S. degree from the Co
 
 
 
----
+
 # 🔥 News
-- *2022.02*: &nbsp,🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp,🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
----
+- *2025.07*: &nbsp,🎉🎉 Our paper was accepted by TMC 2025.
+
 
 # 📝 Publications 
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Zhibo Wang, Jiahui Hu, Chao Ma and Qin Liu. Cost-Efficient and Secure Federated Learning for Edge Computing[J]. IEEE Transactions on Mobile Computing, 2025, early access. **TMC 2025**
@@ -34,13 +33,13 @@ I received my B.S. degree in software engineering and my M.S. degree from the Co
 - Jiaqi Feng, Libing Wu, Xing Fan, Lijuan Huo, Enshu Wang, <u>Zhuangzhuang Zhang</u>*. Ascina: Efficient Proof of Retrievability for Industrial Cloud Storage Systems[J]. IEEE Transactions on Information Forensics and Security, 2025. **TIFS 2025**
 - Yi Yu, Weizhen Han, Libing Wu, Bingyi Liu, Enshu Wang, <u>Zhuangzhuang Zhang</u>. Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework[C]//Proceedings of the Computer Vision and Pattern Recognition Conference. 2025. **CVPR 2025**
 - Yizhou Wang, Libing Wu, Yue Cao, Jiong Jin, <u>Zhuangzhuang Zhang</u>*, Enshu Wang. A Highly Transferable Camouflage Attack Against Object Detectors in the Physical World[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. **TITS 2025**
-- Yijun Pu, Libing Wu, Zhuangzhuang Zhang, Xianjun Deng, Bingyi Liu, Enshu Wang. APC: Adaptive Platoon Control Scheme for Urban Traffic Signal Intersections[J]. IEEE Transactions on Vehicular Technology, 2025. **TVT 2025**
+- Yijun Pu, Libing Wu*, <u>Zhuangzhuang Zhang</u>*, Xianjun Deng, Bingyi Liu, Enshu Wang. APC: Adaptive Platoon Control Scheme for Urban Traffic Signal Intersections[J]. IEEE Transactions on Vehicular Technology, 2025. **TVT 2025**
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Debiao He, Jianxin Li, Na Lu and Xuejiang Wei. Using Third-Party Auditor to Help Federated Learning: An Efficient Byzantine-robust Federated Learning[J]. IEEE Transactions on Sustainable Computing, 2024. **TSUSC 2024**
 - Lijuan Huo, Libing Wu*, <u>Zhuangzhuang Zhang</u>*, Chunshuo Li, Debiao He, and Jing Wang. Libras: a Fair, Secure, Verifiable and Scalable Outsourcing Computing Scheme Based on Blockchain[J]. IEEE Transactions on Information Forensics and Security. **TIFS 2024**
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Chuanguo Ma, Jianxin Li, Jing Wang, Qian Wang and Shui Yu. LSFL: A Lightweight and Secure Federated Learning Scheme for Edge Computing[J]. IEEE Transactions on Information Forensics and Security, 2023. **TIFS 2023**
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Debiao He, Qian Wang, Dan Wu, Xiaochuan Shi and Chao Ma. G-VCFL: Grouped Verifiable Chained Privacy-Preserving Federated Learning[J]. IEEE Transactions on Network and Service Management, 2022. **TNSM 2022**
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Debiao He, Jianxin Li, Shuqin Cao and Xianfeng Wu. Communication-Efficient and Byzantine-robust Federated Learning for Mobile Edge Computing Networks[J]. IEEE Network, 2023. **IEEE Network 2023**
-- 
+
 
 # 🎖 Honors and Awards
 - *2024* Best Paper Award, IEEE International Conference on Smart City
