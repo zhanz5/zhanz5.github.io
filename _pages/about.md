@@ -59,4 +59,4 @@ I received my B.S. and M.S. degrees from Taiyuan University of Technology, Taiyu
 
 # 💻 Service
 - Reviewer: IEEE TIFS, IEEE JSAC, IJCAI, ICCV, IEEE IoTJ, IEEE TNSM, IEEE TNSE, etc.
-- Program Committee Member: WASA (2024, 2025), HPCC (2025).
+- Program Committee Member: WASA (2024, 2025), HPCC (2025), TrustCom (2025).
