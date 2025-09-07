@@ -46,6 +46,7 @@ I received my B.S. and M.S. degrees from Taiyuan University of Technology, Taiyu
 
 
 # 🎖 Honors and Awards
+- *2024* Excellent Doctoral Dissertation Award, ACM SIGAPP, ACM China
 - *2024* Best Paper Award, IEEE International Conference on Smart City
 - *2023* Outstanding Postgraduate Student, Wuhan University,
 - *2022* First Prize in CCF Excellent Ph.D. Academic Forum, CCF Wuhan Branch 
