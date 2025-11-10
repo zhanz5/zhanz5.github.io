@@ -23,6 +23,7 @@ I received my B.S. and M.S. degrees from Taiyuan University of Technology, Taiyu
 
 
 # 🔥 News
+- *2025.11*: 🎉🎉 Our paper was accepted by AAAI 2026.
 - *2025.07*: 🎉🎉 Our paper was accepted by TMC 2025.
 
 
