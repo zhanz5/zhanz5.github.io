@@ -30,7 +30,7 @@ I received my B.S. and M.S. degrees from Taiyuan University of Technology, Taiyu
 
 # 📝 Publications 
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Zhibo Wang, Jiahui Hu, Chao Ma and Qin Liu. Cost-Efficient and Secure Federated Learning for Edge Computing[J]. IEEE Transactions on Mobile Computing, 2025, early access. **TMC 2025**
-- Yajun Ma, Libing Wuu*, Enshu Wang, Bingyi Liu, <u>Zhuangzhuang Zhang</u>, Hangxing Wei, Jing Wang. PV-STR: An Efficient Pseudonym Verification Scheme With Spatial-Temporal Revocation in IoVs, 2025, early access. **TMC 2025**
+- Yajun Ma, Libing Wu*, Enshu Wang, Bingyi Liu, <u>Zhuangzhuang Zhang</u>, Hangxing Wei, Jing Wang. PV-STR: An Efficient Pseudonym Verification Scheme With Spatial-Temporal Revocation in IoVs, 2025, early access. **TMC 2025**
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Jiong Jin, Enshu Wang, Bingyi Liu, and Qing-Long Han. Secure Federated Learning for Cloud-Fog Automation: Vulnerabilities, Challenges, Solutions, and Future Directions[J]. IEEE Transactions on Industrial Informatics, 2025, 21(5): 3528-3540. **TII 2025**
 - Jiaqi Feng, Libing Wu\*, Xing Fan, Lijuan Huo, Enshu Wang, <u>Zhuangzhuang Zhang</u>\*. Ascina: Efficient Proof of Retrievability for Industrial Cloud Storage Systems[J]. IEEE Transactions on Information Forensics and Security, 2025. **TIFS 2025**
 - Xinhai Yan, Libing Wu\*, <u>Zhuangzhuang Zhang</u>\*, Bingyi Liu, Lijuan Huo, Jing Wang. FedBAP: Backdoor Defense via Benign Adversarial Perturbation in Federated Learning[C]//ACM MM 2025. **ACM MM 2025**
