@@ -23,6 +23,13 @@ I received my B.S. and M.S. degrees from Taiyuan University of Technology, Taiyu
 
 
 # 🔥 News
+- *2026.07*: 🎉🎉 One paper was accepted by IEEE TDSC 2026.
+- *2026.07*: 🎉🎉 Two papers were accepted by IEEE TVT 2026.
+- *2026.05*: 🎉🎉 One paper was accepted by ICML 2026.
+- *2026.04*: 🎉🎉 One paper was accepted by IEEE TIFS 2026.
+- *2026.03*: 🎉🎉 One paper was accepted by IEEE TCE 2026.
+- *2026.03*: 🎉🎉 One paper was accepted by IEEE TVT 2026.
+- *2026.01*: 🎉🎉 One paper was accepted by IEEE TDSC 2026.
 - *2025.11*: 🎉🎉 Our paper was accepted by TMC 2025.
 - *2025.11*: 🎉🎉 Our paper was accepted by AAAI 2026.
 - *2025.07*: 🎉🎉 Our paper was accepted by TMC 2025.
