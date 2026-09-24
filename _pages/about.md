@@ -27,6 +27,7 @@ I received my B.S. and M.S. degrees from Taiyuan University of Technology, Taiyu
 - *2026.07*: 🎉🎉 Two papers were accepted by IEEE TVT 2026.
 - *2026.05*: 🎉🎉 One paper was accepted by ICML 2026.
 - *2026.04*: 🎉🎉 One paper was accepted by IEEE TIFS 2026.
+- *2026.02*: 🎉🎉 One paper was accepted by CVPR 2026.
 - *2026.03*: 🎉🎉 One paper was accepted by IEEE TCE 2026.
 - *2026.03*: 🎉🎉 One paper was accepted by IEEE TVT 2026.
 - *2026.01*: 🎉🎉 One paper was accepted by IEEE TDSC 2026.
@@ -37,6 +38,7 @@ I received my B.S. and M.S. degrees from Taiyuan University of Technology, Taiyu
 
 # 📝 Publications 
 - <u>Zhuangzhuang Zhang</u>, MingXin Li, Libing Wu, Wei-Bin Lee and Jianping Wang. The Latent Guardian: Defending Collaborative Perception via Feature-Level Consistency Verification[C]//Proceedings of the 43rd International Conference on Machine Learning. 2026. **ICML 2026**
+- Yi Yu, Libing Wu\*, <u>Zhuangzhuang Zhang</u>, Jing Qiu, Lijuan Huo and Jiaqi Feng. All Vehicles Can Lie: Efficient Adversarial Defense in Fully Untrusted-Vehicle Collaborative Perception via Pseudo-Random Bayesian Inference[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2026. **CVPR 2026**
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Helei Cui, Zhibo Wang, Lijuan Huo, Jing Wang and Shengshan Hu. Heterogeneous Privacy-Preserving Federated Learning for Edge Intelligence[J]. IEEE Transactions on Information Forensics and Security, 2026, early access. **TIFS 2026**
 - <u>Zhuangzhuang Zhang</u>, Libing Wu*, Lijuan Huo, Jianhua Wang, Jiaqi Feng and Yi Yu. Learning Behavior Consistency-Based Backdoor Defense for Federated Learning[J]. IEEE Transactions on Dependable and Secure Computing, 2026, early access. **TDSC 2026**
 - Jiaqi Feng, Libing Wu\*, Lijuan Huo\*, <u>Zhuangzhuang Zhang</u>, Xing Fan and Jiong Jin. Efficient Dynamic Auditing Scheme for Cloud Data Sharing of Intelligent Connected Fleet[J]. IEEE Transactions on Dependable and Secure Computing, 2026, early access. **TDSC 2026**
