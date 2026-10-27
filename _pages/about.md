@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.S. and M.S. degrees from Taiyuan University of Technology, Taiyuan, China, in 2017 and 2020, respectively, and my Ph.D. in Cyberspace Security from the School of Cyber Science and Engineering, Wuhan University, China, in 2024. I am currently a Postdoctoral Fellow with the Department of Computer Science, City University of Hong Kong, Hong Kong, China. My main research interests include AI security and autonomous vehicle security. I have published 20+ papers in top journals and conferences, including IEEE TIFS, IEEE TDSC, IEEE TMC, ICML, CVPR, AAAI, and ACM MM.
+I received my B.S. and M.S. degrees from Taiyuan University of Technology, Taiyuan, China, in 2017 and 2020, respectively, and my Ph.D. in Cyberspace Security from the School of Cyber Science and Engineering, Wuhan University, China, in 2024. I am currently a Postdoctoral Fellow with the Department of Computer Science, City University of Hong Kong, Hong Kong, China. My main research interests include AI security and autonomous vehicle security. I have published 30+ papers in journals and conferences, including IEEE TIFS, IEEE TDSC, IEEE TMC, ICML, CVPR, AAAI, and ACM MM.
 
 
 
